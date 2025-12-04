@@ -56,7 +56,7 @@ p {
 }
 
 #text p:first-child {
-  background-image: url(../images/fondoParrafo.png);
+  background-image: url("/practica2/images/fondoParrafo.png");
   border-top-left-radius: 30px;
   border-top-right-radius: 30px;
 }
